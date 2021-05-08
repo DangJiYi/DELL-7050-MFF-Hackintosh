@@ -1,1 +1,1 @@
-# DELL-7050-MFF-Hackintosh-
+# DELL-7050-MFF-Hackintosh
