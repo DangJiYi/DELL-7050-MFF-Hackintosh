@@ -1,4 +1,6 @@
-# DELL-7050-MFF-Hackintosh
+# DELL-7050-MFF-Hackintosh(黑苹果)
+
+
 
 OC 0.6.9
 
