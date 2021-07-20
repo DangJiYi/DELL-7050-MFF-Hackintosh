@@ -1,7 +1,7 @@
 # DELL-7050-MFF-Hackintosh(黑苹果)
 
 
-## OC 0.7.0
+### OC 0.7.0
 
 配置:i5-6400,网卡ax200  
 HDMI,Wi-Fi,声音(耳机)可以使用  
