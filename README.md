@@ -11,7 +11,9 @@ HDMI,Wi-Fi,声音(耳机)可以使用
 
 bios设置:https://github.com/linkev/Dell-Optiplex-7050-Micro-Hackintosh/blob/master/BIOS.md
 
-2021.08.15             0.7.0>>>0.7.2（Catalina）
+2021.08.15         
+
+0.7.0>>>0.7.2（Catalina）
 
 Misc--security--SecureBootModel--j137
 
