@@ -17,7 +17,9 @@ Misc--security--SecureBootModel--j137
 
 UEFI--APFS--MinVersion--无限制 or Catalina
 
-(  MinDate   -1                  MinVersion    -1
+(  MinDate   -1                  MinVersion    -1               
+
+   or
 
    MinDate    20200306     MinVersion    1412101001000000   )
 
