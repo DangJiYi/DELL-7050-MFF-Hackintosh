@@ -25,5 +25,5 @@ UEFI--APFS--MinVersion--无限制 or Catalina
 
    MinDate    20200306     MinVersion    1412101001000000   )
 
- 
+ 0816更新：升级Big Sur（11.5.2），风扇声音在晚上有点吵，Wi-Fi的kexts文件更换为Big Sur专用版本
 
