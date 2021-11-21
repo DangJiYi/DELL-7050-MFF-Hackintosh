@@ -1,7 +1,7 @@
 # DELL-7050-MFF-Hackintosh(黑苹果)
 
 
-### OC 0.7.2
+### OC 0.7.5
 
 配置:i5-6400,网卡ax200  
 HDMI,Wi-Fi,声音(耳机)可以使用  
@@ -25,5 +25,7 @@ UEFI--APFS--MinVersion--无限制 or Catalina
 
    MinDate    20200306     MinVersion    1412101001000000   )
 
- 0816更新：升级Big Sur（11.5.2），风扇声音在晚上有点吵，Wi-Fi的kexts文件更换为Big Sur专用版本
+2021.08.16 更新：
+
+升级Big Sur（11.5.2），Wi-Fi的kexts文件更换为Big Sur专用版本
 
