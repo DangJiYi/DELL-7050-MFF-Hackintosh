@@ -29,3 +29,6 @@ UEFI--APFS--MinVersion--无限制 or Catalina
 
 升级Big Sur（11.5.2），Wi-Fi的kexts文件更换为Big Sur专用版本
 
+2022.03.13 更新:
+
+修改layout-id为12(可使用麦克风）
